@@ -2,7 +2,7 @@
 
 ##About:
 
-The Nuke tank AI battle application was built by @DLukeNelson and @eyesniper2 for the Pason coding contest.
+The Nuke tank AI battle application was built by @[DLukeNelson](https://github.com/DLukeNelson) and @[eyesniper2](https://github.com/eyesniper2) for the Pason coding contest.
 This application is based off of the sample code provided by Pason for use in their virtual machine. Getting the API to work with anything else might prove challenging.
 
 The strategy used per friendly tank was to focus on dodging bullets and attacking unfriendly targets as they approach. In order to avoid targeting unfriendly targets through walls a check was used to make sure that the friendly tank had a line of sight to the enemy tank. Before firing there was also a check to make sure friendly targets were not in the way.
@@ -38,6 +38,6 @@ If you are a student or a competitor looking to get a jump start on their client
 
 ## Dependencies
 
-[ZeroMQ](http://www.zeromq.org/)
-[ZeroMQ Java Binding](http://www.zeromq.org/bindings:java)
-[Json](http://www.json.org/java/)
+- [ZeroMQ](http://www.zeromq.org/)
+- [ZeroMQ Java Binding](http://www.zeromq.org/bindings:java)
+- [Json](http://www.json.org/java/)
